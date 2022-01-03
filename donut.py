@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import matplotlib
 import math
 from math import sin, cos
 
